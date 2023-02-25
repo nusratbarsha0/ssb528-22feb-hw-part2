@@ -1,0 +1,47 @@
+f.it{
+	font-size: 30px;
+
+}
+h2{
+	color: yellow;
+}
+.box{
+	background-color: pink;
+
+}
+.new{
+	margin: 5%;
+	color: orange;
+	font-size: 40px;
+}
+/*common start*/
+body{
+	
+	font-family:sans-serif ;
+	font-size:16px ;
+	font-weight:400 ;
+	color: #3B4E75;
+}
+/*common end*/
+/*header start*/
+.container{
+	overflow: hidden;
+	border: black;
+}
+.logo{
+	float: left;
+	weight: 20%;
+	height: 50px;
+	background-color: white;
+
+
+}
+.menu{
+	float: right;
+	weight: 15%;
+	height: 40px;
+	margin: 1px;
+	color: black;
+}
+
+/*header end*/
